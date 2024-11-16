@@ -1,7 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f6cdfd;
-    color: #01579b;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-color: skyblue;
+    color: #9b0141;
     margin: 0;
     padding: 0;
     font-size: 16;
@@ -11,7 +11,7 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    background-color: #b3e5fc;
+    background-color: #4613a3a1;
 }
 
 header h1 {
@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #01579b;
+    color: #580000;
 }
 
 /* Main Content */
@@ -42,5 +42,5 @@ main {
 }
 
 h2 {
-    color: #01579b;
+    color: #00694b;
 }
