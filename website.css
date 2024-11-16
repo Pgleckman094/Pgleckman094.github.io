@@ -1,0 +1,36 @@
+body {
+    background-color: #5a6473;
+    color: white;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    color: black;
+    text-decoration: none;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    color: white;
+  }
+  
+  img {
+    display: block;
+    margin: 20px auto;
+  }
