@@ -2,9 +2,9 @@ body {
     font-family: 'Times New Roman', Times, serif, sans-serif;
     background-color: rgb(255, 245, 200);
     color: #d00000;
-    margin: 0;
-    padding: 0;
-    font-size: 16;
+    margin: 5;
+    padding: 2;
+    font-size: 20;
 }
 
 /* Header and Navigation */
